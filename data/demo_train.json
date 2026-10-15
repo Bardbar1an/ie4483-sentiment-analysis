@@ -1,0 +1,322 @@
+[
+  {
+    "id": "demo-pos-00",
+    "reviews": "The headphones sound clear and are comfortable for hours.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-00",
+    "reviews": "The headphones hurt my ears and the sound is distorted.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-01",
+    "reviews": "This charger works reliably and charges my phone quickly.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-01",
+    "reviews": "This charger stopped working after only two days.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-02",
+    "reviews": "The screen is bright and the colours look beautiful.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-02",
+    "reviews": "The screen is dim and flickers whenever I use it.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-03",
+    "reviews": "Excellent battery life and a solid build make this a great purchase.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-03",
+    "reviews": "Terrible battery life makes this product almost useless.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-04",
+    "reviews": "The keyboard feels comfortable and every key works perfectly.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-04",
+    "reviews": "Several keyboard keys stick and typing is frustrating.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-05",
+    "reviews": "I love this camera because the photos are sharp and detailed.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-05",
+    "reviews": "The camera takes blurry photos even in bright light.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-06",
+    "reviews": "This kettle heats water quickly and is easy to clean.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-06",
+    "reviews": "The kettle leaks water and the handle feels unsafe.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-07",
+    "reviews": "The mouse is accurate and fits my hand comfortably.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-07",
+    "reviews": "The mouse disconnects constantly and tracking is inaccurate.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-08",
+    "reviews": "The speaker delivers rich sound at a reasonable price.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-08",
+    "reviews": "The speaker sounds tinny and is not worth the price.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-09",
+    "reviews": "The backpack is sturdy and holds all my books easily.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-09",
+    "reviews": "The backpack strap broke during the first week.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-10",
+    "reviews": "A useful product with clear instructions and simple controls.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-10",
+    "reviews": "The instructions are confusing and the controls do not work.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-11",
+    "reviews": "Delivery was quick and the item arrived in perfect condition.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-11",
+    "reviews": "Delivery was late and the item arrived damaged.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-12",
+    "reviews": "The lamp gives a pleasant light and the switch feels sturdy.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-12",
+    "reviews": "The lamp stopped turning on and its switch is loose.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-13",
+    "reviews": "This blender handles frozen fruit smoothly without struggling.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-13",
+    "reviews": "The blender struggles with fruit and smells like burning plastic.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-14",
+    "reviews": "The shoes fit well and remain comfortable after a long walk.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-14",
+    "reviews": "The shoes rub my heels and feel uncomfortable.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-15",
+    "reviews": "The printer was easy to install and produces sharp text.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-15",
+    "reviews": "The printer jams repeatedly and wastes expensive ink.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-16",
+    "reviews": "I am very happy with the quality and would buy it again.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-16",
+    "reviews": "I am disappointed with the quality and want a refund.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-17",
+    "reviews": "The fan is quiet and keeps the room comfortably cool.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-17",
+    "reviews": "The fan is loud and barely moves any air.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-18",
+    "reviews": "The cable is durable and the connection stays stable.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-18",
+    "reviews": "The cable is fragile and loses its connection frequently.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-19",
+    "reviews": "The pan heats evenly and food does not stick to it.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-19",
+    "reviews": "Food sticks to the pan and cleaning it is a nightmare.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-20",
+    "reviews": "It is not expensive and works surprisingly well.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-20",
+    "reviews": "It is not good and I regret buying it.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-21",
+    "reviews": "I expected poor quality but this product is actually excellent.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-21",
+    "reviews": "I expected an excellent product but the quality is awful.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-22",
+    "reviews": "The setup took a minute and everything worked immediately.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-22",
+    "reviews": "The setup failed repeatedly and support was unhelpful.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-23",
+    "reviews": "The lid seals tightly and has never leaked in my bag.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-23",
+    "reviews": "The lid does not seal properly and liquid spills everywhere.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-24",
+    "reviews": "The tablet is responsive and ideal for reading books.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-24",
+    "reviews": "The tablet freezes often and takes ages to open a book.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-25",
+    "reviews": "The jacket feels warm and the stitching is neat.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-25",
+    "reviews": "The jacket is thin and the stitching came apart.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-26",
+    "reviews": "The battery lasts all day even with frequent use.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-26",
+    "reviews": "The battery dies before lunch even with light use.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-27",
+    "reviews": "A reliable replacement that performs better than the original.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-27",
+    "reviews": "The replacement is unreliable and worse than the original.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-28",
+    "reviews": "The adjustable stand is stable and easy to position.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-28",
+    "reviews": "The stand wobbles badly and cannot hold the weight.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-29",
+    "reviews": "The microphone records a clear voice with very little noise.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-29",
+    "reviews": "The microphone adds loud static and makes speech unclear.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-30",
+    "reviews": "The vacuum picks up dust well and is simple to empty.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-30",
+    "reviews": "The vacuum has weak suction and leaves dust behind.",
+    "sentiments": 0
+  },
+  {
+    "id": "demo-pos-31",
+    "reviews": "This is a well made product and excellent value for money.",
+    "sentiments": 1
+  },
+  {
+    "id": "demo-neg-31",
+    "reviews": "This product feels cheaply made and is a waste of money.",
+    "sentiments": 0
+  }
+]

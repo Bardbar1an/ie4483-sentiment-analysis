@@ -1,0 +1,26 @@
+[
+  {
+    "id": "demo-test-001",
+    "reviews": "The headphones are comfortable and the sound is excellent."
+  },
+  {
+    "id": "demo-test-002",
+    "reviews": "This charger is unreliable and stopped working."
+  },
+  {
+    "id": "demo-test-003",
+    "reviews": "The screen is beautiful but the battery is terrible."
+  },
+  {
+    "id": "demo-test-004",
+    "reviews": "It is not good and certainly not worth the money."
+  },
+  {
+    "id": "demo-test-005",
+    "reviews": "Setup was easy and the connection is stable."
+  },
+  {
+    "id": "demo-test-006",
+    "reviews": "The item arrived damaged and I want a refund."
+  }
+]

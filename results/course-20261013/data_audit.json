@@ -1,0 +1,23 @@
+{
+  "original_train_rows": 7401,
+  "unique_train_rows": 7182,
+  "duplicate_rows_removed": 219,
+  "original_label_counts": {
+    "1": 6319,
+    "0": 1082
+  },
+  "unique_label_counts": {
+    "1": 6134,
+    "0": 1048
+  },
+  "development_rows": 5745,
+  "holdout_rows": 1437,
+  "test_rows": 1851,
+  "test_rows_with_exact_normalised_training_overlap": 101,
+  "test_labels_available": false,
+  "submission_columns": [
+    "reviews",
+    "predictions"
+  ],
+  "submission_template_matches_test_text_and_order": true
+}

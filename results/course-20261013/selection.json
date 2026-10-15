@@ -1,0 +1,5 @@
+{
+  "selected_model": "word_char_balanced_logistic",
+  "criterion": "3-fold development CV macro-F1, accuracy tie-break",
+  "holdout_used_for_selection": false
+}

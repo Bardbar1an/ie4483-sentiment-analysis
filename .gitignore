@@ -1,0 +1,27 @@
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+# Course inputs and all generated per-review outputs
+/data/course/
+/runs/
+/work/
+*.joblib
+*.pkl
+*.pickle
+**/train.json
+**/test.json
+**/submission.csv
+**/split.csv
+**/*_predictions.csv
+# Credentials and local machine configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
